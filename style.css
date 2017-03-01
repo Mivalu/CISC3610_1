@@ -1,0 +1,29 @@
+.title {
+	font-family: Helvetica,Verdana;
+	font-size: 24pt;
+	color: #222222
+}
+.nav {
+	background-color: #555555
+}
+.nav .link {
+	font-family: Helvetica,Verdana;
+	font-size: 12pt;
+	color: #CCCCCC	
+}
+.photo {
+	width: 300px;
+	height: 300px
+}
+.textytext {
+	font-family: Helvetica,Verdana;
+	font-size: 12pt;
+}
+.bottom {
+	font-family: Helvetica,Verdana;
+	font-size: 10pt;
+	text-align: center;
+}
+#drawingCanvas {
+	border: 1px solid black;
+}
